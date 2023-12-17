@@ -35,3 +35,17 @@ This repository contains a simple implementation of the Flappy Bird game using J
 1. Compile the Java files using a Java compiler.
    ```bash
    javac Main.java
+
+2. Run the compiled program.
+  ```bash
+   java Main
+   ```
+
+## Dependencies
+- Java Standard Library
+
+## Credits
+### Implementation by
+- [Duke Dhal](https://github.com/ImDoubD), [Anant Bansal](https://github.com/anantbansa1) and [Deepanshu Pal](https://github.com/deepanshupal09)
+
+
