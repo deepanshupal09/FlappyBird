@@ -34,12 +34,18 @@ This repository contains a simple implementation of the Flappy Bird game using J
 ## How to Build and Run
 1. Compile the Java files using a Java compiler.
 ```bash
-javac Main.java
+javac FlappyBird.java
 ```
 2. Run the compiled program.
   ```bash
-java Main
+java FlappyBird
    ```
+## Screenshots
+
+![Screenshot 2023-12-17 165419](https://github.com/deepanshupal09/FlappyBird/assets/101573843/1efbac42-00aa-4f81-ae02-b9e44d4d0e58)
+![Screenshot 2023-12-17 165438](https://github.com/deepanshupal09/FlappyBird/assets/101573843/eaadeac5-68b3-46e5-832b-a910e4dc1490)
+![Screenshot 2023-12-17 165449](https://github.com/deepanshupal09/FlappyBird/assets/101573843/ecfb1ce4-72f6-4ba6-b8c1-c8e0ab392562)
+
 
 ## Dependencies
 - Java Standard Library
