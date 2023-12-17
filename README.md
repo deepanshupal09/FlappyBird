@@ -52,4 +52,4 @@ java FlappyBird
 
 ## Credits
 ### Implementation by
-- [Deepanshu Pal](https://github.com/deepanshupal09),[Anant Bansal](https://github.com/anantbansa1) and [Duke Dhal](https://github.com/ImDoubD), 
+- [Deepanshu Pal](https://github.com/deepanshupal09), [Anant Bansal](https://github.com/anantbansa1) and [Duke Dhal](https://github.com/ImDoubD), 
