@@ -192,8 +192,12 @@ class MyCanvas extends Canvas implements KeyListener, MouseListener {
 
     public void keyPressed(KeyEvent e) {
         if (e.getKeyCode() == KeyEvent.VK_UP) {
-            game = true;
-            birdVelocity = -6;
+            if(birdVelocity<0) {
+                birdVelocity=Math.max(-10,birdVelocity-6);
+            }
+            else {
+                birdVelocity=-6;
+            }
             updateVelocity();
         }
     }
